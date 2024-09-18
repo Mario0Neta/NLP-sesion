@@ -3,3 +3,5 @@ venv/
 .venv/
 
 /IMDB_Dataset.csv
+
+/approaches_to_NLP.pdf
