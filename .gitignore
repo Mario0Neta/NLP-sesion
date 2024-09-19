@@ -11,6 +11,7 @@ syntax: glob
 *.bbl
 *.bib
 *.blg
+*.csv
 *.docx
 *.dvi
 *.el
@@ -50,3 +51,5 @@ ltximg/**
 
 syntax: regexp
 (.*/)?\#[^/]*\#$
+
+/__pycache__
